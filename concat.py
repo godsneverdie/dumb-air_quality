@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 a=[r'archive']
-f_t=r'combined.csv'
+f_t=r'\.csv'
 
 i=0
 for pa in a:
